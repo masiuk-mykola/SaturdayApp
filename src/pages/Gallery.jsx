@@ -15,7 +15,16 @@ export const Gallery = () => {
 
   return (
     <>
-      <ul>
+      <ul
+        style={{
+          display: 'flex',
+          flexWrap: 'wrap',
+          width: '100vw',
+          gap: '20px',
+          justifyContent: 'center',
+          alignItems: 'center',
+        }}
+      >
         {images.map(item => {
           return (
             <li key={item.id}>
