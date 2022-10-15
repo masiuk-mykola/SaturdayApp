@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SaturdayApp/static/css/main.7acaea2f.css",
-    "main.js": "/SaturdayApp/static/js/main.ee3bc20a.js",
+    "main.js": "/SaturdayApp/static/js/main.e740f33a.js",
     "index.html": "/SaturdayApp/index.html",
     "main.7acaea2f.css.map": "/SaturdayApp/static/css/main.7acaea2f.css.map",
-    "main.ee3bc20a.js.map": "/SaturdayApp/static/js/main.ee3bc20a.js.map"
+    "main.e740f33a.js.map": "/SaturdayApp/static/js/main.e740f33a.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.ee3bc20a.js"
+    "static/js/main.e740f33a.js"
   ]
 }
